@@ -1,0 +1,6 @@
+C:\Users\Name\djangogirls > myvenv\Scripts\activate
+
+
+
+(Ú×)
+https://tutorial.djangogirls.org/ja/installation/#pythonanywhere

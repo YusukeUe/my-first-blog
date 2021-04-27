@@ -1,0 +1,11 @@
+仮想環境をスタートする。
+　[cmd]>myvenv\Scripts\activate
+　
+　(詳細)
+　https://tutorial.djangogirls.org/ja/installation/#pythonanywhere
+　
+　
+ウェブサーバーを起動する
+　[cmd]>python manage.py runserver
+　
+　
